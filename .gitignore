@@ -1,0 +1,3 @@
+# Project exclude paths
+/load-balancer1/target/
+/load-balancer2/target/
